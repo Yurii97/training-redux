@@ -1,0 +1,17 @@
+.counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    margin: 30px auto;
+    border: 1px solid gray;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content:space-around;
+    /* margin-left: -10px; */
+}
+.counter>span{
+    text-align: center;
+}

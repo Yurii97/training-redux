@@ -1,0 +1,7 @@
+.layout{
+    display: flex;
+    
+}
+.layout>:link{
+    margin-left: 10px;
+}
