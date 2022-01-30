@@ -6,6 +6,7 @@ function Layout() {
     <div className={s.layout}>
         <Link to="/">Home</Link>
         <Link to='/counter'>Counter</Link>
+        <Link to='/contacts'>Contacts</Link>
     </div>
         <Outlet />
     </>)
